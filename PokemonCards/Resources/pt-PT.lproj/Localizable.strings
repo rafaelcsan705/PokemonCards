@@ -1,0 +1,21 @@
+"loading" = "A carregar…";
+"try_again" = "Tentar Novamente";
+"search_card" = "Pesquisar Carta";
+"card_list_title" = "Cartas Pokémon";
+"error_loading_cards" = "Erro ao carregar cartas";
+"error_loading_cards" = "Erro ao carregar cartas";
+"error_loading_card_detail" = "Erro ao carregar detalhe da carta.";
+"detail_card_attacks" = "Ataques";
+"detail_card_illustrator" = "Ilustrador:";
+"detail_card_type" = "Tipo:";
+"detail_card_stage" = "Estágio:";
+"detail_card_card" = "Carta";
+"detail_card_of" = "de";
+"detail_card_weakness" = "Fraquezas:";
+"detail_card_hp" = "HP:";
+"detail_card_variand_holo" = "Holo";
+"detail_card_variand_reverse" = "Reverse";
+"detail_card_variand_normal" = "Normal";
+"detail_card_variand_first_edition" = "1º Edition";
+"detail_card_variand_promo" = "Promo";
+
